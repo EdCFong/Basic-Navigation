@@ -1,0 +1,21 @@
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\bin\Debug\Basic Navigation.exe.config
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\bin\Debug\Basic Navigation.exe
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\bin\Debug\Basic Navigation.pdb
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Basic Navigation.csprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\MainWindow.g.cs
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Page1.g.cs
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Page2.g.cs
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Page3.g.cs
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\App.g.cs
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Basic Navigation_MarkupCompile.cache
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Basic Navigation_MarkupCompile.lref
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\MainWindow.baml
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Page1.baml
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Page2.baml
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Page3.baml
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Basic Navigation.g.resources
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Basic_Navigation.Properties.Resources.resources
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Basic Navigation.csproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Basic Navigation.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Basic Navigation.exe
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Navigation\obj\Debug\Basic Navigation.pdb
